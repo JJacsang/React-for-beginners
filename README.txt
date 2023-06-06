@@ -9,3 +9,7 @@ react url >> https://jjacsang.github.io/react-for-beginners/
 아직 css도 꾸미지 않아서 별 볼 것 없는 상태이다 ㅠ 좀 더 수련이 필요하다 
 이번 기회에 github에 대하여 가장 많이 검색한 3일이 되었다..
 맨탈이...와장창.....
+
+참조한 url을 첨부하겠다
+
+>> https://jtrimind.github.io/troubleshooting/gh-pages/
